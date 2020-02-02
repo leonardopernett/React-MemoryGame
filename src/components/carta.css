@@ -1,0 +1,20 @@
+.carta {
+    width: 125px;
+    height: 125px;
+    background: #ffb300
+}
+
+.portada {
+    width: 125px;
+    height: 125px;
+    background: #ffb300
+}
+
+.contenido{
+    width: 125px;
+    height: 125px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(3, 220, 244);
+}
